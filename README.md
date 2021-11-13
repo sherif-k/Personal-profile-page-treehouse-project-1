@@ -1,4 +1,4 @@
-# Treehouse personal profile page
+# Personal profile page treehouse
 Customized a personal online profile by adding graphics, updating text, and improving the look of the web page using CSS (Cascading Style Sheets).
 
 ## Overview 
